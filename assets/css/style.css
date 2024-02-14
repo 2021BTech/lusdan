@@ -4040,7 +4040,7 @@ input[type=color] {
 }
 .header-bottom__main-menu nav ul li {
   display: inline-block;
-  margin: 0px 17px;
+  margin: 0px 6px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .header-bottom__main-menu nav ul li {
